@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e7eff9;
+    background-size: cover;
+    padding-top: 50px;
+
+}
+.Hire-page{
+    position: sticky;
+}
+.Hire1 {
+    padding-left: 280px;
+    font-size: 18;
+    margin-top: -740px;
+    color: #20232b;
+}
+.Hire12{
+    margin-top: 80px;
+    padding-left: 320px;
+    font-size: 18;
+    color: #20232b;
+}
+
+
+.Hir1 {
+    width: 1250px;
+    height: 750px;
+    margin-left: 210px;
+
+}
+.Hir12 {
+    margin-left: 796px;
+    margin-top: -779px;
+    width: 640px;
+    height: 750px;
+    border-radius: 15px;
+
+}
+
+.Hire2 {
+    padding-left: 850px;
+    font-size: 18;
+    margin-top: -850px;
+}
+
+.Hir2 {
+    width: 1300px;
+    height: 1050px;
+    padding-top: 70px;
+    margin-left: 230px;
+}
+
+.contact-img {
+    margin-left: -1270px;
+    margin-top: 320px;
+    height: 550px;
+    width: 400px;
+    position:sticky ;
+}
+
+form {
+
+    width: 300px;
+    margin-left: 20px;
+
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #878787;
+}
+
+form input {
+    width: 130%;
+    padding: 10px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 20px;
+    outline: none;
+}
+form input:hover {
+    box-shadow: 0 0 15px #6764e2;
+  }
+form textarea:hover {
+    border-radius: 15px;
+    box-shadow: 0 0 15px #6764e2;
+
+}
+
+
+button {
+    width: 200px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+button:hover {
+    color: rgb(7, 1, 1);
+    background: rgb(0, 238, 255)
+}
+
+.Hire3 {
+    padding-left: 250px;
+    font-size: 18;
+    margin-top: -590px;
+   
+}
+
+.Hir3{
+    margin-top: 190px; 
+    width: 1200px;
+    height: 650px;
+    margin-left: 230px;
+}
+
+.last-clr {
+    color: red;
+    margin-bottom: 10px;
+}
